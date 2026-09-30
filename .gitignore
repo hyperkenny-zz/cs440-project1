@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+results/
+.DS_Store
+
+.venv/
+
+.idea/
